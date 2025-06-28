@@ -1,6 +1,7 @@
 # 🌤️ Weather Web App
 
-A simple weather-checking website that displays real-time weather information for any city inputted by the user.
+This weather-checking app was built by following a beginner-friendly tutorial from [GreatStack](https://youtu.be/MIYQR-Ybrn4?si=MPIiYfFZ_qiUsGmr). 
+It was one of the first projects that helped me understand how to fetch data from an external API and dynamically update the UI using JavaScript.
 
 ## 🌍 Features
 
